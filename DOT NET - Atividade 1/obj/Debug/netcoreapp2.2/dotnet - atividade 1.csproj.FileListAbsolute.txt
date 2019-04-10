@@ -1,0 +1,17 @@
+C:\Users\davil\OneDrive\Documentos\dotnet - atividade 1\bin\Debug\netcoreapp2.2\dotnet - atividade 1.deps.json
+C:\Users\davil\OneDrive\Documentos\dotnet - atividade 1\bin\Debug\netcoreapp2.2\dotnet - atividade 1.runtimeconfig.json
+C:\Users\davil\OneDrive\Documentos\dotnet - atividade 1\bin\Debug\netcoreapp2.2\dotnet - atividade 1.runtimeconfig.dev.json
+C:\Users\davil\OneDrive\Documentos\dotnet - atividade 1\bin\Debug\netcoreapp2.2\dotnet - atividade 1.dll
+C:\Users\davil\OneDrive\Documentos\dotnet - atividade 1\bin\Debug\netcoreapp2.2\dotnet - atividade 1.pdb
+C:\Users\davil\OneDrive\Documentos\dotnet - atividade 1\obj\Debug\netcoreapp2.2\dotnet - atividade 1.csprojAssemblyReference.cache
+C:\Users\davil\OneDrive\Documentos\dotnet - atividade 1\obj\Debug\netcoreapp2.2\dotnet - atividade 1.csproj.CoreCompileInputs.cache
+C:\Users\davil\OneDrive\Documentos\dotnet - atividade 1\obj\Debug\netcoreapp2.2\dotnet - atividade 1.AssemblyInfoInputs.cache
+C:\Users\davil\OneDrive\Documentos\dotnet - atividade 1\obj\Debug\netcoreapp2.2\dotnet - atividade 1.AssemblyInfo.cs
+C:\Users\davil\OneDrive\Documentos\dotnet - atividade 1\obj\Debug\netcoreapp2.2\dotnet - atividade 1.dll
+C:\Users\davil\OneDrive\Documentos\dotnet - atividade 1\obj\Debug\netcoreapp2.2\dotnet - atividade 1.pdb
+C:\Users\Leandro Santos\Desktop\Arquivos - SI\8º Período\DOT NET\Exercício 1\dotnet-Unifacisa-2019.01-master\Exercício 1\obj\Debug\netcoreapp2.2\dotnet - atividade 1.csprojAssemblyReference.cache
+C:\Users\Leandro Santos\Desktop\Arquivos - SI\8º Período\DOT NET\Exercício 1\dotnet-Unifacisa-2019.01-master\Exercício 1\obj\Debug\netcoreapp2.2\dotnet - atividade 1.csproj.CoreCompileInputs.cache
+C:\Users\Leandro Santos\Desktop\Arquivos - SI\8º Período\DOT NET\Exercício 1\dotnet-Unifacisa-2019.01-master\Exercício 1\obj\Debug\netcoreapp2.2\dotnet - atividade 1.AssemblyInfoInputs.cache
+C:\Users\Leandro Santos\Desktop\Arquivos - SI\8º Período\DOT NET\Exercício 1\dotnet-Unifacisa-2019.01-master\Exercício 1\obj\Debug\netcoreapp2.2\dotnet - atividade 1.AssemblyInfo.cs
+C:\Users\Leandro Santos\Desktop\Arquivos - SI\8º Período\DOT NET\Exercício 1\dotnet-Unifacisa-2019.01-master\Exercício 1\obj\Debug\netcoreapp2.2\dotnet - atividade 1.dll
+C:\Users\Leandro Santos\Desktop\Arquivos - SI\8º Período\DOT NET\Exercício 1\dotnet-Unifacisa-2019.01-master\Exercício 1\obj\Debug\netcoreapp2.2\dotnet - atividade 1.pdb
